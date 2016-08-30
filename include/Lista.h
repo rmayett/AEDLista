@@ -1,3 +1,5 @@
+/*Rodrigo Mayett Guzman
+Constructores de la lista*/
 #include "Nodo.h"
 
 class Lista

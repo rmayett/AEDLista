@@ -1,3 +1,5 @@
+/*Rodrigo Mayett Guzman
+Constructores del nodo y atributos*/
 #include <iostream>
 
 class Nodo
